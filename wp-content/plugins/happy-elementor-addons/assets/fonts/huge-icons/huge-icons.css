@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "Huge Icons";
-	src: url("www.chronosstudio.com.br//wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff2") format("woff2"),
-		url("www.chronosstudio.com.br//wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff") format("woff"),
-		url("www.chronosstudio.com.br//wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.svg#huge-icons") format("svg");
+	src: url("chronosstudio.com.br//wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff2") format("woff2"),
+		url("chronosstudio.com.br//wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff") format("woff"),
+		url("chronosstudio.com.br//wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.svg#huge-icons") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
